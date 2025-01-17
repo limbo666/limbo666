@@ -18,6 +18,9 @@ Here are some of my favorite creations:
 - **[NewFolder_RightClick](https://github.com/limbo666/NewFolder_RightClick)**: Adds a "New Folder" option to the top of the right-click context menu.
 
 - **[IFTTT_to_ESP8266](https://github.com/limbo666/IFTTT_to_ESP8266)**: A web server to receive commands from the webhooks service on IFTTT.
+  
+- **[NodeMCU DFPlayer lua](https://github.com/limbo666/nodemcu-dfPlayer-lua-)**: A code library to use DFPlayer hardware in NodeMCU firmware (lua based).
+  
 
 ## 🎉 Community Involvement
 

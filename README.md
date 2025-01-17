@@ -24,7 +24,7 @@ Here are some of my favorite creations:
 
 ## 🎉 Community Involvement
 
-I'm a proud member of the **[LCD Smartie](https://github.com/LCD-Smartie/LCDSmartie)** organization and have created a repository called **[Limbo's Goodies for LCD Smartie](https://github.com/Limbos-goodies-for-LCDSmartie)**, offering a variety of plugins and skins for download. I'm also member of the infamus [Dracula theme](https://github.com/dracula/dracula-theme)    
+I'm a proud member of the **[LCD Smartie](https://github.com/LCD-Smartie/LCDSmartie)** organization and have created a group called **[Limbo's Goodies for LCD Smartie](https://github.com/Limbos-goodies-for-LCDSmartie)**, offering a variety of plugins and skins for download. I'm also member of the infamus [Dracula theme](https://github.com/dracula/dracula-theme) which offers a wide range of skins and themes for applications and programs.
 
 ## 🛠️ Beta Testing and Bug Tracking
 

@@ -2,9 +2,10 @@
 
 Welcome to my GitHub profile! I'm a self-taught coding enthusiast who loves to tinker with electronics and craft creative solutions.<br> Coding is my playground, and I primarily enjoy working with:
 
-- **Lua** 🐾
+- **Lua** 🌜
 - **VB.NET** 💻
-- **C++** 🔧
+- **C++** ➕➕
+- **C#** 💙
 - **Graphics Design** 🎨
 
 ## 🔥 Featured Projects

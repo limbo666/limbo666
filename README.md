@@ -14,6 +14,8 @@ Here are some of my favorite creations:
 
 - **[KeyzPal](https://github.com/limbo666/KeyzPal)**: A tray indicator for CAPS, NUM, and SCROLL lock keys for Windows.
 
+- **[Desktop Fences +](https://github.com/limbo666/DesktopFences)**: An open source alternative to Stardock Fences for Windows.
+  
 - **[Duplicate_RightClick](https://github.com/limbo666/Duplicate_RightClick)**: A right-click "Duplicate" context menu item for Windows, designed for those who are tired of copying and pasting in the same folder to duplicate files.
 
 - **[NewFolder_RightClick](https://github.com/limbo666/NewFolder_RightClick)**: Adds a "New Folder" option to the top of the right-click context menu.

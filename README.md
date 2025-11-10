@@ -1,6 +1,7 @@
-# 👋 Hey there! I'm Limbo
+# Limbo
 
-Welcome to my GitHub profile! I'm a self-taught coding enthusiast who loves to tinker with electronics and craft creative solutions.<br> Coding is my playground, and I primarily enjoy working with:
+Welcome 
+I'm a self-taught coding enthusiast who loves to tinker with electronics and craft creative solutions.<br> Coding is my playground, and I primarily enjoy working with:
 
 - **Lua** 🌜
 - **VB.NET** 💻
@@ -39,17 +40,4 @@ Feel free to explore my [repositories](https://github.com/limbo666?tab=repositor
 
 Happy coding! 😄
 
-<!--
-**limbo666/limbo666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

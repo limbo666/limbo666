@@ -15,6 +15,10 @@ Here are some of my favorite creations:
 
 - **[KeyzPal](https://github.com/limbo666/KeyzPal)**: A tray indicator for CAPS, NUM, and SCROLL lock keys for Windows.
 
+- **[PixelGlow](https://github.com/limbo666/PixelGlow)**: A simple ambient light system for windows.
+
+- **[PhantomChat](https://github.com/limbo666/PhantomChat)**: A portable, completely offline, and anonymous messaging system built for ESP32 microcontrollers..
+
 - **[Desktop Fences +](https://github.com/limbo666/DesktopFences)**: An open source alternative to Stardock Fences for Windows (forked from Birdy Fences).
   
 - **[Duplicate_RightClick](https://github.com/limbo666/Duplicate_RightClick)**: A right-click "Duplicate" context menu item for Windows, designed for those who are tired of copying and pasting in the same folder to duplicate files.

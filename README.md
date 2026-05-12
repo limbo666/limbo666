@@ -24,6 +24,7 @@ Most of my projects revolve around:
 🌜 Lua         █████████░
 ➕ C++         ███████░░░
 💙 C#          ██████░░░░
+⚡ PowerShell  ████████░░
 🎨 Design/UI   ████████░░
 ```
 
